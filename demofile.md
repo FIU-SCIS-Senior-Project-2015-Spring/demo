@@ -7,7 +7,7 @@ Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete
 ----------
 Images
 ---------
-**Pending, but working on it.**
+**Pending, but working on it.** 
 
 Documents
 -------------
@@ -63,11 +63,7 @@ Regular unordered lists
 Regular ordered lists
 -------------------------
 1. a
-	1.1. aa
-	1.2. aaa
 2. b
-	2.1. bb
-	2.2. bbb
 3. c
 4. d
 5. e
