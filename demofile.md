@@ -47,16 +47,30 @@ You can save the current document to a file by clicking <i class="icon-hdd"></i>
 Regular unordered lists
 ----------------------------
 * a
+	* aa
+	* aaa
 * b
 * c
+	* cc
+	* ccc
+	* cccc
+		* dddd
+		* ddddd
+		* dddddd
 * d
+* e
 
 Regular ordered lists
 -------------------------
 1. a
+	1.1. aa
+	1.2. aaa
 2. b
+	2.1. bb
+	2.2. bbb
 3. c
 4. d
+5. e
 
 Synchronization
 -------------------
