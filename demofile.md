@@ -8,7 +8,7 @@ Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete
 Images
 ---------
 **Pending, but working on it. Blah, blah...** 
-![book icon](https://drive.google.com/open?id=0B4tbprPfMkD3TWRhQThJVGZmRlk&authuser=0)
+![book icon](http://googledrive.com/host/0B4tbprPfMkD3fjdKbm9xeDdnNE42R3p2dzhlc2lvb01UYVNhbnhTMlV4d2RraThpSFFVLWc/book.png)
 
 Documents
 -------------
