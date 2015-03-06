@@ -7,7 +7,7 @@ Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete
 ----------
 Images
 ---------
-**Pending still**
+**Pending, but working on it.**
 
 Documents
 -------------
